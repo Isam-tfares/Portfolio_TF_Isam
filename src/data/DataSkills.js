@@ -7,10 +7,17 @@ const DataSkills=[
     {
         "name": "ReactJS",
         "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
+    },{
+        "name": "React native",
+        "icon": "https://img.icons8.com/ios-filled/50/null/react-native.png"
     },
     {
         "name": "NodeJS",
         "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
+    },
+    {
+       "name":"Sqlite",
+      "icon":"https://img.icons8.com/office/16/null/data-configuration.png"
     },
     {
         "name": "Bootstrap",
@@ -26,7 +33,7 @@ const DataSkills=[
     },
     {
         "name": "C",
-        "icon": "https://img.icons8.com/color/48/null/c-plus-plus-logo.png"
+        "icon": "https://img.icons8.com/fluency/48/null/c-programming.png"
     },
     {
         "name": "Jquery",
