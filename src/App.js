@@ -31,12 +31,12 @@ export default function App() {
         <Route path='/contact'>
           <Contact />
         </Route>
-       
 
 
-        {/* <Route path="*">
+
+        <Route path="*">
           <Error />
-        </Route> */}
+        </Route>
       </Switch>
       <Footer />
     </Router>
