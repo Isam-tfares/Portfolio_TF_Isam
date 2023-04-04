@@ -7,6 +7,7 @@ const DataSkills = [
     {
         "name": "ReactJS",
         "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
+<<<<<<< HEAD
     }, {
         "name": "React native",
         "icon": "https://img.icons8.com/nolan/64/react-native.png"
@@ -29,14 +30,28 @@ const DataSkills = [
     {
         "name": "Bootstrap",
         "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
+=======
+    },{
+        "name": "React native",
+        "icon": "https://img.icons8.com/ios-filled/50/null/react-native.png"
+>>>>>>> e7cae165f6f48f53fc5459b6c5d138000758adeb
     },
     {
         "name": "NodeJS",
         "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
     },
     {
+<<<<<<< HEAD
         "name": "Sqlite",
         "icon": "https://img.icons8.com/office/16/null/data-configuration.png"
+=======
+       "name":"Sqlite",
+      "icon":"https://img.icons8.com/office/16/null/data-configuration.png"
+    },
+    {
+        "name": "Bootstrap",
+        "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
+>>>>>>> e7cae165f6f48f53fc5459b6c5d138000758adeb
     },
 
     {
