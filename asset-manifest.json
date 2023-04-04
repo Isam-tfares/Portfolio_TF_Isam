@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Portfolio_TF_Isam/static/css/main.87f28f18.chunk.css",
-    "main.js": "/Portfolio_TF_Isam/static/js/main.8821bba4.chunk.js",
-    "main.js.map": "/Portfolio_TF_Isam/static/js/main.8821bba4.chunk.js.map",
+    "main.js": "/Portfolio_TF_Isam/static/js/main.a4759bee.chunk.js",
+    "main.js.map": "/Portfolio_TF_Isam/static/js/main.a4759bee.chunk.js.map",
     "runtime-main.js": "/Portfolio_TF_Isam/static/js/runtime-main.03a74a5e.js",
     "runtime-main.js.map": "/Portfolio_TF_Isam/static/js/runtime-main.03a74a5e.js.map",
     "static/js/2.404ef911.chunk.js": "/Portfolio_TF_Isam/static/js/2.404ef911.chunk.js",
@@ -14,10 +14,12 @@
     "static/media/BlogProject.91ff0723.png": "/Portfolio_TF_Isam/static/media/BlogProject.91ff0723.png",
     "static/media/BusProject.61e11504.png": "/Portfolio_TF_Isam/static/media/BusProject.61e11504.png",
     "static/media/EspaceEtudiant.a6eff8d1.png": "/Portfolio_TF_Isam/static/media/EspaceEtudiant.a6eff8d1.png",
+    "static/media/MVC.d4472ab2.png": "/Portfolio_TF_Isam/static/media/MVC.d4472ab2.png",
     "static/media/PortfolioProject.c58c7d1f.png": "/Portfolio_TF_Isam/static/media/PortfolioProject.c58c7d1f.png",
     "static/media/Redux.147c43f8.png": "/Portfolio_TF_Isam/static/media/Redux.147c43f8.png",
     "static/media/WeatherProject.a2fcd584.png": "/Portfolio_TF_Isam/static/media/WeatherProject.a2fcd584.png",
     "static/media/almajd.5e86cf3f.jpeg": "/Portfolio_TF_Isam/static/media/almajd.5e86cf3f.jpeg",
+    "static/media/cv.102e9b07.pdf": "/Portfolio_TF_Isam/static/media/cv.102e9b07.pdf",
     "static/media/js.3424b715.jpg": "/Portfolio_TF_Isam/static/media/js.3424b715.jpg",
     "static/media/python.22521a36.png": "/Portfolio_TF_Isam/static/media/python.22521a36.png",
     "static/media/react.943c4845.png": "/Portfolio_TF_Isam/static/media/react.943c4845.png",
@@ -27,6 +29,6 @@
     "static/js/runtime-main.03a74a5e.js",
     "static/js/2.404ef911.chunk.js",
     "static/css/main.87f28f18.chunk.css",
-    "static/js/main.8821bba4.chunk.js"
+    "static/js/main.a4759bee.chunk.js"
   ]
 }
