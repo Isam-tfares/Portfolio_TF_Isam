@@ -1,7 +1,7 @@
 {
   "name": "shiny-agency",
   "version": "0.1.0",
-  "homepage": "https://gitname.github.io/Portfolio_TF_Isam",
+  "homepage": "https://isam-tfares.github.io/Portfolio_TF_Isam/",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.10.0",
