@@ -1,4 +1,4 @@
-import img from '../../assets/1676133457576-removebg-preview.jpg'
+import img from '../../assets/MyImg.jpg'
 import '../../styles/Home.css'
 import CV from "../../assets/cv.pdf";
 export default function About() {
@@ -16,8 +16,15 @@ export default function About() {
 
         <div className="col-lg-7 p-4 order-lg-1 order-2">
             <h5 className='fw-light'>Hey</h5>
-            <h2 className='fw-bold text-light text-center'>I'm <span className='text-warning'>Tfares Isam</span> an Engineering student and Full-stack Developper</h2>
-            <p className='fw-light mt-5 mb-3 text-center'>I am a student in ENSA Safi in Computer Engineering, Full-stack developper. I am passionate to improve my skills in coding and developement of websites</p>
+            <h2 className='fw-bold text-light text-center'>I'm <span className='text-warning'>Tfares Isam</span> an Engineering student</h2>
+            <p className='fw-light mt-5 mb-3 text-center'>I am a student in ENSA Safi in Computer Engineering,
+                A passionate individual with a strong background in data science and
+                computer science. I am dedicated to leveraging data-driven insights to solve complex problems
+                and drive innovation. With expertise in data analysis, machine learning, and computer science principles,
+                I am committed to making meaningful contributions in diverse projects and collaborative environments.
+                I thrive on challenges and continuously seek opportunities to expand my knowledge and skills in these exciting fields.
+
+            </p>
             <div className=' d-flex align-items-center justify-content-center'>
                 <a data-toggle="tooltip" data-placement="right" title="instagram" target='_blank' rel="noreferrer" href='https://www.instagram.com/invites/contact/?i=14zfmkbzl5jwx&utm_content=e475j19' className='text-light' data-bs-toggle="tooltip" data-bs-placement="top"
                     data-bs-custom-class="custom-tooltip"

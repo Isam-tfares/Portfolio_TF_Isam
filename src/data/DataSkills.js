@@ -8,16 +8,25 @@ const DataSkills = [
         "name": "ReactJS",
         "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
 
+    },
+    {
+        "name": "Angular",
+        "icon": "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-angular-a-typescript-based-open-source-web-application-framework-logo-shadow-tal-revivo.png"
+
     }, {
         "name": "React native",
         "icon": "https://img.icons8.com/nolan/64/react-native.png"
     }, {
-        'name': 'Kotlin',
-        'icon': "https://img.icons8.com/color/48/null/kotlin.png"
+        'name': 'Django',
+        'icon': "https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-color-tal-revivo.png"
     },
     {
-        'name': 'Expo Go',
-        'icon': 'https://camo.githubusercontent.com/ac51c2a5c1e1b564cce09fd58c6005a9360230a8d60486eb48ab029bbb12a752/68747470733a2f2f617070726563732e6f72672f67702f696d616765732f6170702d69636f6e732f3330302f64382f686f73742e6578702e6578706f6e656e742e6a7067'
+        'name': 'AWS',
+        'icon': 'https://img.icons8.com/color/48/amazon-web-services.png'
+    },
+    {
+        'name': 'Azure',
+        'icon': 'https://img.icons8.com/fluency/48/azure-1.png'
     },
     {
         'name': 'Tailwind',
@@ -32,8 +41,8 @@ const DataSkills = [
         "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
 
     }, {
-        "name": "React native",
-        "icon": "https://img.icons8.com/ios-filled/50/null/react-native.png"
+        "name": "Power BI",
+        "icon": "https://img.icons8.com/fluency/48/power-bi-2021.png"
 
     },
     {
@@ -46,12 +55,17 @@ const DataSkills = [
         "icon": "https://img.icons8.com/office/16/null/data-configuration.png"
     },
     {
-        "name": "Sqlite",
-        "icon": "https://img.icons8.com/office/16/null/data-configuration.png"
+        "name": "FireBase",
+        "icon": "https://img.icons8.com/color/48/firebase.png"
     },
     {
-        "name": "Bootstrap",
-        "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
+        "name": "Keras",
+        "icon": "https://img.icons8.com/material-rounded/24/FA5252/keras.png"
+
+    },
+    {
+        "name": "Flask",
+        "icon": "https://img.icons8.com/nolan/64/flask.png"
 
     },
 
@@ -105,8 +119,8 @@ const DataSkills = [
         "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
     },
     {
-        "name": "WordPress",
-        "icon": "https://img.icons8.com/color/48/000000/wordpress.png"
+        "name": "MongoDB",
+        "icon": "https://img.icons8.com/nolan/64/mongo-db.png"
     },
     {
         "name": "Figma",
