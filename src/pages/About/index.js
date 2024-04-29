@@ -1,6 +1,6 @@
 import img from '../../assets/MyImg.jpg'
 import '../../styles/Home.css'
-import CV from "../../assets/cv.pdf";
+import CV from "../../assets/MyCv.pdf";
 export default function About() {
 
     const handleEmailClick = () => {
