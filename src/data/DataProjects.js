@@ -10,7 +10,7 @@ const DataProjects = [
     { id: '3', src: WeatherProject, title: 'Meteorological', desc: 'React js, Styled-components,axios,API', view: 'https://isam-tfares.github.io/weather-app/', code: 'https://github.com/Isam-tfares/weather-app' },
     { id: '4', src: Classification, title: 'Classification-Web-Application', desc: 'React js, Django API,Tensorflow', view: 'https://github.com/Isam-tfares/Potato-Diseases-Classification-Web-Application' },
     { id: '5', src: BlogProject, title: 'Blog', desc: 'Laravel,Bootstrap', view: 'https://github.com/Isam-tfares/Blog_By_Laravel', code: 'https://github.com/Isam-tfares/Blog_By_Laravel' },
-    { id: '6', src: ASL, title: 'Blog', desc: 'React js, Django API,Tensorflow, Open-CV', view: 'https://github.com/Isam-tfares/Sign_Language_Mnist', code: 'https://github.com/Isam-tfares/Sign_Language_Mnist' }
+    { id: '6', src: ASL, title: 'ASL Gesture Recognition System', desc: 'React js, Django API,Tensorflow, Open-CV', view: 'https://github.com/Isam-tfares/Sign_Language_Mnist', code: 'https://github.com/Isam-tfares/Sign_Language_Mnist' }
 
 ]
 export default DataProjects
