@@ -1,6 +1,8 @@
-# 7150626-Gerez-letat-de-votre-app-avec-Redux
+# Portfolio - [Your Name]
 
-Pour lancer l'application:
+Welcome to my portfolio! This repository showcases my projects, skills, and experiences in the field of data science/computer science. Feel free to explore the projects listed below and reach out to me if you have any questions or collaboration opportunities.
 
-- `yarn install` pour installer les dépendances
-- `yarn start` pour lancer l'application
+## Live Demo
+
+You can access the live version of my portfolio https://isam-tfares.github.io/Portfolio_TF_Isam/
+
